@@ -1,0 +1,14 @@
+# Build outputs
+/Debug/
+/Release/
+/build/
+*.elf
+*.hex
+*.bin
+*.o
+*.d
+*.su
+
+# IDE settings
+.settings/
+*.launch

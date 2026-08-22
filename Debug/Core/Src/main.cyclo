@@ -1,0 +1,8 @@
+../Core/Src/main.c:77:6:BMA400_WriteReg	3
+../Core/Src/main.c:85:9:BMA400_ReadReg	3
+../Core/Src/main.c:100:6:BMA400_ReadAccel_SPI	3
+../Core/Src/main.c:258:6:SystemClock_Config	4
+../Core/Src/main.c:123:6:SleeepyTime	3
+../Core/Src/main.c:145:5:main	100
+../Core/Src/main.c:477:6:EXTI15_10_IRQHandler	1
+../Core/Src/main.c:487:6:Error_Handler	1
