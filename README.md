@@ -1,6 +1,8 @@
+
 # LIQUILITE
 
-> **Sponsorship Notice**  
+> **Sponsorship Notice**
+> <img width="1024" height="1024" alt="easyeda_logo" src="https://github.com/user-attachments/assets/2f64c7bc-434b-4d77-b1a0-089d0a61b321" />
 > This project was designed and generously sponsored by **[EasyEDA](https://easyeda.com/)**. You can explore and fork the interactive hardware design directly on [OSHWLab](https://oshwlab.com/ezekielchang31/project_aiwnxyiw).
 
 ---
