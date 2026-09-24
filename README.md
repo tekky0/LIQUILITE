@@ -1,5 +1,12 @@
 # LIQUILITE
 
+<table>
+  <tr>
+    <td align="center"><img src="media/trio_screen.png" alt="LIQUILITE trio, screen" width="400" /><br/>Screen</td>
+    <td align="center"><img src="media/trio_shell.png" alt="LIQUILITE trio, shell" width="400" /><br/>Shell</td>
+  </tr>
+</table>
+
 > **Sponsorship Notice**  
 > <img width="220" alt="easyeda_logo" src="https://github.com/user-attachments/assets/2f64c7bc-434b-4d77-b1a0-089d0a61b321" />  
 > This project was designed and generously sponsored by **[EasyEDA](https://easyeda.com/)**. You can explore and fork the interactive hardware design directly on [OSHWLab](https://oshwlab.com/ezekielchang31/project_aiwnxyiw).
@@ -12,11 +19,11 @@
 
 ---
 
-## Full Demo
+## Demo
 
 https://github.com/user-attachments/assets/YOUR-VIDEO-ID
 
-[Watch the full demo (download)](media/full_demo.mp4)
+[Download the demo video](media/demo.mp4)
 
 ---
 
