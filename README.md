@@ -8,13 +8,40 @@
 
 ## About the Project
 
-**LIQUILITE** is an open-source hardware and firmware project built around the **STM32L412** microcontroller. 
+**LIQUILITE** is an open-source hardware and firmware project built around the **STM32L412** microcontroller. It is a pendant with an LED matrix that displays a real-time fluid simulation.
+
+---
+
+## Full Demo
+
+https://github.com/user-attachments/assets/YOUR-VIDEO-ID
+
+[Watch the full demo (download)](media/full_demo.mp4)
+
+---
+
+## Gallery
+
+<table>
+  <tr>
+    <td align="center"><img src="media/amber.jpeg" alt="Amber" width="250" /><br/>Amber</td>
+    <td align="center"><img src="media/amber%20(2).jpeg" alt="Amber, angle 2" width="250" /><br/>Amber</td>
+    <td align="center"><img src="media/amber%20(3).jpeg" alt="Amber, angle 3" width="250" /><br/>Amber</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="media/aqua.jpeg" alt="Aqua" width="250" /><br/>Aqua</td>
+    <td align="center" colspan="2"><img src="media/enclosure.png" alt="Enclosure" width="400" /><br/>Enclosure</td>
+  </tr>
+</table>
+
+---
 
 ## Repository Structure
 
 * **`ProDoc_liquilite_.epro2`**: Complete EasyEDA Pro PCB design and schematic file.
 * **`liquilite.ioc`**: STM32CubeMX project configuration file.
 * **`Core/` & `Drivers/`**: STM32 firmware source code and HAL drivers.
+* **`media/`**: Photos, renders, and demo video.
 
 ## Hardware & Design
 
